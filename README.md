@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26151279/README.md)
 # ttyslot
 
 i wanted to make a terminal slot machine cuz I like to gamble but I don't have internet always
