@@ -3,7 +3,7 @@
 i wanted to make a terminal slot machine cuz I like to gamble but I don't have internet always
 
 this is a 3 reel slot game built in go with some charm libraries for lots of beauty
-
+![slot](https://github.com/trashdeveloper/ttyslot/blob/main/image.webp?raw=true)
 ## what it has
 
 - 3 reel slot machine with weighted symbols
